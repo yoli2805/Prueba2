@@ -4,7 +4,7 @@ public class Trabajo_Login {
 	public static void main(String[] args) {
 		System.out.println("Introduce tu nombre de usuario y contraseña");
 		String usuariotrue = "DAM1";
-		String contrasennatrue = "DeLosPalotes";
+		String contrasennatrue = "clasejava";
 		Scanner leer = new Scanner(System.in);
 		boolean usuariocorrecto = false;
 		do {
